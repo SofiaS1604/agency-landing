@@ -825,6 +825,7 @@ body, html, p, span, ul, li, a, nav {
 .new__link{
     margin-top: 62px;
     font-size: 18px;
+    cursor: pointer;
     color: #27DEBF;
 }
 
