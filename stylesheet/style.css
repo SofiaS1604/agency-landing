@@ -135,7 +135,6 @@ body, html, p, span, ul, li, a, nav {
     font-size: 15px;
     font-weight: 600;
     border: 0;
-    line-height: 45px;
     cursor: pointer;
     margin-right: 18px;
 }
@@ -610,6 +609,7 @@ body, html, p, span, ul, li, a, nav {
     text-align: center;
     margin-top: 14px;
     margin-left: auto;
+    line-height: 42px;
     margin-right: auto;
 }
 
