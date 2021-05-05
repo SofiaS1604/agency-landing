@@ -42,7 +42,7 @@ body, html, p, span, ul, li, a, nav {
     background: #27DEBF;
     text-align: center;
     border-radius: 4px;
-    line-height: 36px;
+    line-height: 32px;
 }
 
 .navigation__container {
@@ -837,7 +837,6 @@ body, html, p, span, ul, li, a, nav {
     width: 174px;
     height: 60px;
     font-size: 19px;
-    line-height: 65px;
     margin-top: 56px;
 }
 
@@ -936,7 +935,6 @@ body, html, p, span, ul, li, a, nav {
     font-size: 18px;
     width: 213px;
     height: 57px;
-    line-height: 62px;
 }
 
 .contact__caption{
@@ -986,7 +984,7 @@ body, html, p, span, ul, li, a, nav {
     font-size: 40px;
     text-align: center;
     font-weight: bold;
-    line-height: 65px;
+    line-height: 58px;
 }
 
 .page__footer{
